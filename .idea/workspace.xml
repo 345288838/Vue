@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bd8e186-909a-422b-a97e-b693c8d016a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hotel/hotel" />
+  </component>
+  <component name="ProjectId" id="1i8Crd8W2fMC5o5ZFYBv9gUCa7R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hotel/hotel/src/style" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WampSever\www\2006\Vueproject\hotel\hotel\src\views\user" />
+      <recent name="D:\WampSever\www\2006\Vueproject\hotel\hotel\src\assets(1)" />
+      <recent name="D:\WampSever\www\2006\Vueproject\hotel\hotel" />
+      <recent name="D:\WampSever\www\2006\Vueproject\hotel\hotel\src\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WampSever\www\2006\Vueproject\hotel\hotel\src\style" />
+      <recent name="D:\WampSever\www\2006\Vueproject\hotel\hotel\src\assets\img" />
+      <recent name="D:\WampSever\www\2006\Vueproject\hotel\hotel\src\lib" />
+      <recent name="D:\WampSever\www\2006\Vueproject\hotel\hotel\src\http" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bd8e186-909a-422b-a97e-b693c8d016a6" name="Default Changelist" comment="" />
+      <created>1601280031758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601280031758</updated>
+      <workItem from="1601280033555" duration="5465000" />
+      <workItem from="1601338154429" duration="6927000" />
+      <workItem from="1601361093566" duration="6166000" />
+      <workItem from="1601424042524" duration="6434000" />
+      <workItem from="1601449525261" duration="8400000" />
+      <workItem from="1601769896130" duration="475000" />
+      <workItem from="1601770550214" duration="14000" />
+      <workItem from="1601770611870" duration="31473000" />
+      <workItem from="1601856160049" duration="10841000" />
+      <workItem from="1601877797211" duration="16787000" />
+      <workItem from="1601942608167" duration="10947000" />
+      <workItem from="1601964217183" duration="14478000" />
+      <workItem from="1602031007126" duration="11622000" />
+      <workItem from="1602050401355" duration="30286000" />
+      <workItem from="1602202656644" duration="30249000" />
+      <workItem from="1602317591855" duration="4380000" />
+      <workItem from="1602461111504" duration="11905000" />
+      <workItem from="1602547367494" duration="16148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1127" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602556887254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1127" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602556887254" />
+    <state x="1224" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602032389223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1224" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602032389223" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1602053866288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602053866288" />
+  </component>
+</project>

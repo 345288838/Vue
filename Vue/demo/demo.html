@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var wx={
+        name:'wx',
+        age:10,
+        say:function (sex) {
+            console.log(this.name+','+this.age+','+sex);
+        }
+    }
+    var xl={
+        name:'xl',
+        age:18,
+    }
+    wx.say('男');
+    wx.say.call(xl,"女");
+    wx.say.apply(xl,["女"]);
+    wx.say.bind(xl,"女")();
+    wx.say.bind(xl)('女');
+</script>
+</body>
+</html>

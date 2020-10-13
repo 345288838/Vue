@@ -1,0 +1,272 @@
+body,ul,li,input{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.clear{
+    clear: both;
+}
+
+.header{
+    width: 100%;
+    padding-top: 1.21rem;
+    margin-bottom: 0.63rem;
+}
+
+.title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.47rem;
+    position: relative;
+}
+
+
+.title span{
+    display: block;
+	font-family: "PingFang-SC-Heavy";
+	font-size: 0.36rem;
+	color:rgb(45,53,68);
+    opacity: 0.9;
+
+}
+
+.search{
+    width: 5.58rem;
+    margin: 0.47rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.search input{
+    width: 5.58rem;
+    height: 0.6rem;
+    background-color: rgb(250, 250,250);
+    border-radius: 0.1rem; 
+    border: none;
+}
+input::-webkit-input-placeholder{
+    color: rgb(217, 217, 217);
+    font-size: 0.26rem;
+}
+
+
+.search img{
+    width: 0.32rem;
+    height: 0.15rem;
+    position: absolute;
+    right: 0.24rem;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.search-btn{
+    width: 100%;
+    height: 0.63rem;
+}
+
+.search-btn ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-btn li{
+    width: 1.45rem;
+    height: 0.63rem;
+    float: left;
+}
+
+.btn{
+    width: 1.35rem;
+    height: 0.63rem;
+    background-color: #fff;
+    margin: 0 auto;
+    border-radius: 0.32rem;
+    position: relative;
+    color: #000;
+    font-size: 0.26rem;
+    line-height: 0.63rem;
+    text-align: center;
+}
+
+.btn.active{
+    color: #fff;
+    background-color: rgb(235,102,107);
+    box-shadow: 0 0.12rem 0.3rem 0 rgba(235,102,107,0.5);
+}
+
+.circle{
+    width: 0.09rem;
+    height: 0.09rem;
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    top: 0.27rem;
+    left: 0.24rem;
+}
+
+.list{
+    width: 100%;
+}
+
+.item{
+    width: 100%;
+    height: 4.28rem;
+    border-radius: 0.08rem;
+    position: relative;
+    box-shadow: 0 0.01rem 0.3rem 0 rgba(242,242,242,0.75);
+}
+
+
+.time{
+    width: 100%;
+    height: 1rem;
+    position: absolute;
+    top: 1.53rem;
+    background: -webkit-linear-gradient(top,transparent,rgba(0,0,0,.7)) no-repeat;
+}
+
+.date{
+    font-size: 0.52rem;
+    color: #fff;
+    opacity: 0.9;
+    position: absolute;
+    top: 0.25rem;
+    left: 0.38rem;
+    font-weight: 300;
+}
+
+.week{
+    font-weight: 600;
+    color: #fff;
+    opacity: 0.9;
+    font-size: 0.26rem;
+    position: absolute;
+    top: 0.54rem;
+    left: 1.46rem;
+}
+
+.status{
+    position: absolute;
+    font-size: 0.2rem;
+    color: #fff;
+    opacity: 0.9;
+    right: 0.4rem;
+    top: 0.55rem;
+}
+
+.arrow{
+    position: absolute;
+    top: 0.71rem;
+    left: 2.26rem;
+}
+
+.arrow img{
+    width: 0.29rem;
+    height: 0.11rem;
+    position: absolute;
+}
+
+.info{
+    width: 100%;
+    height: 1.76rem;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+}
+
+.stname{
+    font-size: 0.32rem;
+    color: #2d3544;
+    opacity: 0.9;
+    position: absolute;
+    top: 0.18rem;
+    left: 0.38rem;
+    font-weight: 550;
+}
+
+.RMB{
+    font-size: 0.2rem; 
+    color: rgb(245,76,72);
+    font-weight: 550;
+    opacity: 0.9;
+    position: absolute;
+    top:0.31rem;
+    right: 1.7rem;
+}
+
+.price{
+    font-size: 0.34rem;
+     color: rgb(245,76,72);
+     font-weight: 550;
+     opacity: 0.9;
+     position: absolute;
+     right: 0.4rem;
+     top: 0.2rem;
+}
+
+.line{
+    width: 100%;
+    height: 0.02rem;
+    background-color: #000;
+    opacity: 0.03;
+    position: absolute;
+    top: 0.78rem;
+}
+
+.cancelbtn{
+    width: 1.47rem;
+    height: 0.48rem;
+    border-radius: 0.08rem;
+    border: 0.02rem solid rgba(0, 0, 0, .1);
+    position: absolute;
+    top:1.04rem;
+    right: 2.11rem;
+}
+
+.cancelbtn span{
+    font-size: 0.24rem;
+    color: #000;
+    opacity: 0.8;
+    position: absolute;
+    top: 0.06rem;
+    left: 0.23rem;
+    right: 0.23rem;
+    bottom: 0.06rem;
+}
+
+.enterbtn{
+    width: 1.47rem;
+    height: 0.48rem;
+    border-radius: 0.08rem;
+    position: absolute;
+    top:1.04rem;
+    right: 0.4rem;
+    background-color: #eb666b;
+}
+
+.enterbtn span{
+    font-size: 0.24rem;
+    color: #fafafa;
+    position: absolute;
+    top: 0.06rem;
+    left: 0.23rem;
+    right: 0.23rem;
+    bottom: 0.06rem;
+}
+.order-back{
+    width: 0.12rem;
+    height:0.25rem;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    z-index: 999;
+    transform: translateY(-50%);
+}
+.order-back img{
+    width: 100%;
+    height: 100%;
+}

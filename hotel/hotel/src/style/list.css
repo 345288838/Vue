@@ -1,0 +1,105 @@
+.list-con{
+    padding: 0.57rem 0.5rem 2rem;
+}
+.list-nav {
+    display: flex;
+    width: 100%;
+    height: 0.63rem;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.64rem;
+}
+.list-nav li{
+    width: 1.35rem;
+    height: 0.63rem;
+    float: left;
+    text-align: center;
+    line-height: 0.63rem;
+    font-size: 0.26rem;
+}
+.list-nav li.active{
+    background: rgb(235,102,107);
+    border-radius: 0.32rem;
+    box-shadow: 0rem 0.12rem 0.3rem 0rem rgba(235, 102, 107, 0.5);
+    color: #fff;
+}
+.list-list{
+    width: 100%;
+}
+.list-list-item{
+    width: 3.03rem;
+    float: left;
+    margin-bottom: 0.35rem;
+    text-align: left;
+}
+.list-list-item:nth-child(2n){
+    float: right;
+}
+.list-item-img{
+    width: 100%;
+    height: 2.28rem;
+    margin-bottom: 0.22rem;
+}
+.list-item-img img{
+    width: 100%;
+    height: 100%;
+}
+.hidden{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.list-item-text{
+    width: 100%;
+}
+.list-item-text div:nth-child(1){
+    font-size: 0.4rem;
+    color:rgb(45,53,68) ;
+    opacity: 0.8;
+    margin-bottom: 0.19rem;
+}
+.list-item-text div:nth-child(2){
+    font-size: 0.2rem;
+    color:rgb(0,0,0) ;
+    opacity: 0.6;
+    margin-bottom: 0.15rem;
+}
+
+.list-item-star{
+    width: 100%;
+    margin-bottom: 0.15rem;
+}
+.list-star{
+    width: 0.25rem;
+    height: 0.25rem;
+    float: left;
+}
+.list-star img{
+    width: 100%;
+    height: 100%;
+}
+.list-item-price{
+    width: 100%;
+}
+.clear{
+    clear: both;
+}
+.list-RMB{
+    font-size: 0.2rem;
+    color: rgb(245,76,72);
+    opacity: 0.9;
+    float: left;
+    line-height: 0.4rem;
+}
+.list-price{
+    font-size: 0.34rem;
+    color: rgb(245,76,72);
+    opacity: 0.9;
+    margin: 0 0.24rem 0;
+    float: left;
+}
+.list-every{
+    font-size: 0.2rem;
+    color: rgb(0,0,0);
+    opacity: 0.6;
+}
